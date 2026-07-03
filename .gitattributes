@@ -1,0 +1,5 @@
+# Normalize line endings and mark generated/binary assets.
+* text=auto eol=lf
+
+*.png binary
+*.zip binary
