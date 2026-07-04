@@ -1,27 +1,35 @@
-# Copy this folder to pages/data/<your-mod>/ and fill in the values.
 name: Template Mod
-
-modrinth:
-  # Project ID from the Modrinth project settings (NOT the slug). Leave blank
-  # until the project exists; the tool will skip Modrinth publishing if empty.
-  project_id: ""
-
 curseforge:
-  # Numeric project ID shown on the CurseForge project overview page.
-  project_id: ""
-  slug: template-mod
-
-# Only the links you fill in are rendered, always in this order:
-# website, youtube, patreon, modrinth, github, discord, curseforge.
+  slug: _template
 links:
-  website: https://antikythera.studio
-  youtube: https://www.youtube.com/@AntikytheraStudios
-  patreon: https://www.patreon.com/AntikytheraStudios
-  modrinth: https://modrinth.com/mod/template-mod
-  github: https://github.com/Antikythera-Studios/template-mod
-  discord: https://discord.gg/your-invite
-  curseforge: https://www.curseforge.com/minecraft/mc-mods/template-mod
-
-# Informational: the intended page order (actual order follows filename order
-# of sections/*.md).
-sections: [about, features, media, installation]
+  website: ''
+  youtube: ''
+  patreon: ''
+  modrinth: ''
+  github: ''
+  discord: ''
+  curseforge: ''
+sections:
+- type: banner
+  image: null
+- type: markdown
+  key: about
+  file: sections/about.md
+- type: markdown
+  key: features
+  file: sections/features.md
+- type: media
+  title: 📷 Media
+  images: []
+- type: markdown
+  key: installation
+  file: sections/installation.md
+- type: markdown
+  key: configuration
+  file: sections/configuration.md
+- type: markdown
+  key: social
+  file: sections/social.md
+- type: markdown
+  key: credits
+  file: sections/credits.md

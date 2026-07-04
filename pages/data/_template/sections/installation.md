@@ -1,4 +1,4 @@
-{{section: Installation}}
+{{section: 📥 Installation}}
 
 **Requires:**
 
@@ -7,4 +7,3 @@
 
 1. Download the file matching your Minecraft version and mod loader.
 2. Drop the `.jar` into your `mods/` folder.
-3. Launch the game.
