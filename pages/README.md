@@ -1,9 +1,9 @@
 # ATK Mod Pages
 
 Source of truth for Antikythera Studios mod description pages. Author each page
-**once** here; the private `atk-publisher` tool renders it to **Modrinth**
-(markdown, published via API) and **CurseForge** (HTML, pasted into the editor)
-in one unified, sectioned layout — the style used by projects like
+**once** here; the `atk-publisher` desktop editor renders it to **Modrinth**
+markdown and **CurseForge** HTML, ready to paste into each site, in one unified,
+sectioned layout — the style used by projects like
 [pixelshot](https://www.curseforge.com/minecraft/mc-mods/pixelshot).
 
 > This `pages/` tree is additive and independent from the Epic Fight resources
@@ -43,6 +43,6 @@ Reference images with a relative path under `assets/`, e.g.
 
 ## Why two renderers
 
-Modrinth renders GitHub-flavored markdown directly. CurseForge's editor takes an
-HTML subset and has **no write API**, so its output is produced as a
-paste-ready `build/curseforge.html`. One source, two targets.
+Modrinth renders GitHub-flavored markdown directly, while CurseForge's editor
+takes an HTML subset. The editor produces both from this one source: a
+`build/modrinth.md` and a `build/curseforge.html`, each ready to paste.
