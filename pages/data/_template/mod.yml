@@ -27,6 +27,12 @@ sections:
 - type: markdown
   key: configuration
   file: sections/configuration.md
+- type: support
+  image: null
+  url: null
+- type: markdown
+  key: othermods
+  file: sections/othermods.md
 - type: markdown
   key: social
   file: sections/social.md
