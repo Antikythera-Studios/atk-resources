@@ -1,0 +1,41 @@
+name: Epic Fight
+curseforge:
+  slug: epic-fight
+links:
+  website: ''
+  youtube: ''
+  patreon: ''
+  modrinth: ''
+  github: ''
+  discord: ''
+  curseforge: ''
+sections:
+- type: banner
+  image: assets/banner.png
+- type: markdown
+  key: social
+  file: sections/social.md
+- type: markdown
+  key: about
+  file: sections/about.md
+- type: markdown
+  key: features
+  file: sections/features.md
+- type: media
+  title: 📷 Media
+  images:
+  - assets/ZZZZZZZZZ1.png
+  - assets/1827189298.png
+  - assets/207981072389172389.png
+- type: markdown
+  key: installation
+  file: sections/installation.md
+- type: markdown
+  key: configuration
+  file: sections/configuration.md
+- type: markdown
+  key: credits
+  file: sections/credits.md
+- type: support
+  image: assets/support.png
+  url: https://billing.sparkedhost.com/aff.php?aff=2724
