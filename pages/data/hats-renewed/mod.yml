@@ -1,0 +1,41 @@
+name: Hats Renewed
+curseforge:
+  slug: hats-renewed
+links:
+  website: ''
+  youtube: ''
+  patreon: ''
+  modrinth: https://modrinth.com/mod/hats-renewed
+  github: https://github.com/Antikythera-Studios/Hats-renewed
+  discord: ''
+  curseforge: https://www.curseforge.com/minecraft/mc-mods/hats-renewed
+sections:
+- type: banner
+  image: assets/banner.png
+- type: markdown
+  key: social
+  file: sections/social.md
+- type: markdown
+  key: about
+  file: sections/about.md
+- type: markdown
+  key: features
+  file: sections/features.md
+- type: media
+  title: 📷 Media
+  images:
+  - assets/21312312341234.png
+  - assets/123124334134.png
+  - assets/2312341343541.png
+- type: markdown
+  key: installation
+  file: sections/installation.md
+- type: markdown
+  key: configuration
+  file: sections/configuration.md
+- type: markdown
+  key: credits
+  file: sections/credits.md
+- type: support
+  image: assets/support.png
+  url: https://billing.sparkedhost.com/aff.php?aff=2724
