@@ -1,0 +1,41 @@
+name: Sanity Renewed
+curseforge:
+  slug: sanity-renewed
+links:
+  website: ''
+  youtube: ''
+  patreon: ''
+  modrinth: https://modrinth.com/mod/sanity-renewed
+  github: https://github.com/Antikythera-Studios/Sanity-Renewed
+  discord: ''
+  curseforge: https://www.curseforge.com/minecraft/mc-mods/sanity-renewed
+sections:
+- type: banner
+  image: assets/banner.png
+- type: markdown
+  key: social
+  file: sections/social.md
+- type: markdown
+  key: about
+  file: sections/about.md
+- type: markdown
+  key: features
+  file: sections/features.md
+- type: media
+  title: 📷 Media
+  images:
+  - assets/med1.png
+  - assets/MED2.png
+- type: markdown
+  key: installation
+  file: sections/installation.md
+- type: markdown
+  key: configuration
+  file: sections/configuration.md
+- type: markdown
+  key: credits
+  file: sections/credits.md
+- type: support
+  image: assets/support.png
+  url: null
+divider: assets/divider.png
