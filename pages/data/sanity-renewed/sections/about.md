@@ -8,6 +8,7 @@
 <table>
 <tr>
 <td valign="top" width="50%">
+
 **Actions that DEPLETES your sanity (configurable):**
 
 - Consuming bad food (like Rotten Flesh)
