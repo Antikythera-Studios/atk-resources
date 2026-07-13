@@ -11,12 +11,11 @@
 
 **Actions that DEPLETES your sanity (configurable):**
 
-- Consuming bad food (like Rotten Flesh)
-- Getting wet (rain & ocean)
-- Receiving damage
-- Being in the dark
-- Difficult movement (Cobweb tangling)
-
+* Consuming bad food (like Rotten Flesh)
+* Getting wet (rain & ocean)
+* Receiving damage
+* Being in the dark
+* Difficult movement (Cobweb tangling)
 * Listening to bad music (like Disc 11)
 * Breaking infested blocks
 * Being near monsters/enemies
