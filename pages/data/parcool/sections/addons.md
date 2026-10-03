@@ -6,5 +6,5 @@
 - Official collaboration addon with EpicFight!!
 - Please check versions of mods from its descpription.
 
-[🔩 **ParCool+ / Compatibility Addon**]
+[🔩 **ParCool+ / Compatibility Addon**](https://www.curseforge.com/minecraft/mc-mods/parcool-compatibility-addon)
 - Provides compatibilities and bugfixes between ParCool and other mods.
