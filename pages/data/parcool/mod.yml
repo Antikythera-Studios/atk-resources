@@ -1,0 +1,42 @@
+name: ParCool
+curseforge:
+  slug: parcool
+links:
+  website: https://github.com/alRex-U/ParCool/wiki
+  youtube: ''
+  patreon: ''
+  modrinth: https://modrinth.com/mod/parcool
+  github: https://github.com/alRex-U/ParCool
+  discord: https://discord.com/invite/NbAJwj8RHg
+  curseforge: https://www.curseforge.com/minecraft/mc-mods/parcool
+sections:
+- type: banner
+  image: assets/banner.png
+- type: markdown
+  key: social
+  file: sections/social.md
+- type: markdown
+  key: about
+  file: sections/about.md
+- type: markdown
+  key: features
+  file: sections/features.md
+- type: markdown
+  key: showcase
+  file: sections/showcase.md
+- type: markdown
+  key: installation
+  file: sections/installation.md
+- type: markdown
+  key: configuration
+  file: sections/configuration.md
+- type: markdown
+  key: addons
+  file: sections/addons.md
+- type: markdown
+  key: contact
+  file: sections/contact.md
+- type: markdown
+  key: credits
+  file: sections/credits.md
+divider: assets/divider.png
