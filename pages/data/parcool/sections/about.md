@@ -1,4 +1,4 @@
-{{section: ParCool}}
+{{section: ParCool!}}
 
 <center><em>A Minecraft Mod for more Cool actions like Parkour</em></center>
 
